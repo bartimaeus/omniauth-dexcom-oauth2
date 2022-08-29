@@ -1,6 +1,6 @@
 # OmniAuth Dexcom OAuth2 Strategy
 
-[![Build Status](https://travis-ci.org/bartimaeus/omniauth-dexcom-oauth2.svg?branch=master)](https://travis-ci.org/bartimaeus/omniauth-dexcom-oauth2)
+[![Build Status](https://app.travis-ci.com/bartimaeus/omniauth-dexcom-oauth2.svg?branch=main)](https://app.travis-ci.com/bartimaeus/omniauth-dexcom-oauth2)
 [![Gem Version](https://badge.fury.io/rb/omniauth-dexcom-oauth2.svg)](https://badge.fury.io/rb/omniauth-dexcom-oauth2)
 
 A Dexcom OAuth2 strategy for OmniAuth.
